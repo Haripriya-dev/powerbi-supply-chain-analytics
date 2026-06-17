@@ -1,5 +1,7 @@
 # powerbi-supply-chain-analytics
 Supply Chain Risk Analysis Dashboard built in Power BI using DAX, Power Query, Star Schema modeling, and Row-Level Security (RLS).
+
+
 # Supply Chain Risk Analysis Dashboard
 
 Power BI | DAX | Supply Chain Analytics | Risk Assessment
